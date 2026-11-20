@@ -59,6 +59,14 @@ The dataset contains 20,594 records and 24 columns, including:
 - Compare Spotify and YouTube engagement.
 - Practice advanced SQL queries and analytical techniques.
 
+## SQL Analysis & Results
+
+### Top 10 Artists by Number of Tracks
+
+This query identifies the top 10 artists based on their total number of tracks in the dataset.
+
+![Top 10 Artists Analysis](top_artists_.png)
+
 ## How to Use
 1. Download the repository.
 2. Create the database using the provided SQL script.
