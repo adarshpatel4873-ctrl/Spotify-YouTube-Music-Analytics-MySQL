@@ -65,7 +65,7 @@ The dataset contains 20,594 records and 24 columns, including:
 
 This query identifies the top 10 artists based on their total number of tracks in the dataset.
 
-![Top 10 Artists Analysis](top_artists_.png)
+![Top 10 Artists Analysis](top_artists.png)
 
 ## How to Use
 1. Download the repository.
